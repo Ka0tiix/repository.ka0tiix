@@ -1,0 +1,22 @@
+<?xml version="0.0.1" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.ka0tiix" name="[COLOR red][B]Ka0tiix01[/B][/COLOR]Khmer Dubbed Repository" version="1.0" provider-name="Ka0tiix02">
+    <extension point="xbmc.addon.repository" name="[COLOR red][B]Ka0tiix03[/B][/COLOR]Khmer Dubbed Repository">
+        <dir>
+            <info compressed="false">https://github.com/Ka0tiix/KDR/zips/addons.xml</info>
+            <checksum>https://github.com/Ka0tiix/KDR/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/Ka0tiix/KDR/zips/</datadir>
+        </dir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLOR red][B]Ka0tiix04[/B][/COLOR]Wizard</summary>
+        <description>The official home of [COLOR red][B]Ka0tiix05's[/B][/COLOR]KDR.</description>
+        <disclaimer>None</disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <source>https://github.com/Ka0tiix/KDR/zips/repository.ka0tiix/</source>
+    </extension>
+</addon>
